@@ -152,9 +152,23 @@ Business impact: Enables differentiated marketing strategies.
 
 ## How to Run
 
-Open any notebook and follow the pipeline.
+Python 3.9+ recommended.
 
-All notebooks run independently, and data paths work out-of-the-box.
+Put datasets under: 36106/assignment/AT3/data/
+
+Open and run notebooks in this order for each part (A -> B -> D) :
+
+- EDA
+
+- Preparation
+
+- Baseline
+
+- Experiment 1–4
+
+Run all cells top → bottom.
+
+See the project_report.docx for final numbers, figures, and decisions.
 
 ---
 

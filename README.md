@@ -1,4 +1,4 @@
-# Retail Customer Analytics — Machine Learning Project (36106 AT3)
+# Retail Customer Analytics — Machine Learning Group Project (36106 AT3)
 
 This project builds three machine-learning solutions for a global retailer:  
 **classification**, **regression**, and **clustering**.  

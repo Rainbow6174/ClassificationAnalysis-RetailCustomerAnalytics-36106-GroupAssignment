@@ -158,13 +158,13 @@ Put datasets under: 36106/assignment/AT3/data/
 
 Open and run notebooks in this order for each part (A -> B -> D) :
 
-- EDA
+- EDA 1-2/1-3
 
 - Preparation
 
 - Baseline
 
-- Experiment 1–4
+- Experiment (A/B/D)
 
 Run all cells top → bottom.
 
